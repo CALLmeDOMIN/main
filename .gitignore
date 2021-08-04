@@ -1,2 +1,19 @@
-C++/123.prettierignore
-.gitignore
+C++/cnv.cpp/cnv.exe
+JavaScript/React/test/package-lock.json
+JavaScript/React/test/package.json
+JavaScript/React/test/README.md
+JavaScript/React/test/public/favicon.ico
+JavaScript/React/test/public/index.html
+JavaScript/React/test/public/logo192.png
+JavaScript/React/test/public/logo512.png
+JavaScript/React/test/public/manifest.json
+JavaScript/React/test/public/robots.txt
+JavaScript/React/test/src/AddPost.js
+JavaScript/React/test/src/App.js
+JavaScript/React/test/src/index.css
+JavaScript/React/test/src/index.js
+JavaScript/React/test/src/ListPosts.js
+JavaScript/React/test/src/setupTests.js
+JavaScript/React/test/src/Topbar.js
+123.prettierignore
+C:\Users\domin\Desktop\GitHub Repository\main\JavaScript\React\test\node_modules
